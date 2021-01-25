@@ -1,0 +1,12 @@
+{
+  "name": "Ministere",
+  "displayName": "Ministere",
+  "expo": {
+    "name": "Ministere",
+    "slug": "Ministere",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
